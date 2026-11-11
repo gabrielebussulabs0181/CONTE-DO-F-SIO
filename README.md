@@ -1,26 +1,28 @@
-# Conteúdo de Fisioterapia com Claude
+# Gabi na Fisio — bastidores de produção
 
-Agentes de IA para criar conteúdo de fisioterapia gastando poucos créditos: ideias, roteiros de vídeo, posts e revisão ética.
+Agentes de IA para o perfil Gabi na Fisio: pautas, pesquisa de evidências, roteiros, carrosséis e revisão — gastando poucos créditos.
 
 ## Agentes
 | Agente | Modelo | Função |
 |---|---|---|
-| `ideias-fisio` | Haiku | Ideias e pautas de conteúdo |
+| `ideias-fisio` | Haiku | Novas pautas |
+| `pesquisador-fisio` | Sonnet | Pesquisa e ficha de evidências |
 | `roteirista-fisio` | Sonnet | Roteiros para Reels, TikTok e Shorts |
-| `copy-fisio` | Sonnet | Legendas, carrosséis, stories e hashtags |
+| `copy-fisio` | Sonnet | Carrosséis e legendas |
 | `revisor-fisio` | Haiku | Revisão técnica e ética (COFFITO) |
 
 ## Como usar
 1. Abra uma sessão do Claude Code com este repositório.
-2. Preencha seu perfil no `CLAUDE.md` (uma vez só).
+2. Escolha uma pauta em `pautas/README.md`.
 3. Peça por etapa, por exemplo:
-   - "use o ideias-fisio para 10 ideias sobre dor lombar"
-   - "use o roteirista-fisio para a ideia 3"
-   - "use o copy-fisio para a legenda desse roteiro"
-   - "use o revisor-fisio no texto final"
+   - "use o pesquisador-fisio na pauta 05"
+   - "use o roteirista-fisio na pauta 05"
+   - "use o revisor-fisio no roteiro da 05"
 
 ## Estrutura
 ```
-CLAUDE.md            # regras de economia e perfil profissional
-.claude/agents/      # os 4 agentes
+CLAUDE.md               # regras do projeto, voz e design
+docs/plano-editorial.md # direção do perfil
+pautas/                 # fichas de evidências e status
+.claude/agents/         # os 5 agentes
 ```
