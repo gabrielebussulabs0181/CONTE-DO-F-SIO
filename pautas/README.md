@@ -14,7 +14,7 @@
 | 11 | Algo da faculdade que mudou minha forma de entender o corpo | Bastidores | Reel | ideia |
 | 12 | Por que as pernas ficam pesadas depois de muito tempo em pé? | Anatomia no cotidiano | Reel com demonstração | ideia |
 | 13 | Por que a gente consegue andar sem pensar em cada passo? | Anatomia no cotidiano | Reel | ideia |
-| 14 | Por que não sentimos cócega quando nós mesmos nos tocamos? | Curiosidades | Carrossel | ideia |
+| 14 | Por que não sentimos cócega quando nós mesmos nos tocamos? | Curiosidades | Carrossel | pesquisando |
 | 15 | Por que o bocejo parece contagioso? | Curiosidades | Reel | ideia |
 | 16 | Como uma pessoa pode ignorar um lado do próprio corpo depois de um AVC? | Casos | Carrossel a partir de caso publicado | ideia |
 | 17 | Como a fisioterapia acompanha pessoas durante o tratamento do câncer? | Fisio além do conhecido | Carrossel | ideia |
