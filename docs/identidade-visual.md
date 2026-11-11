@@ -1,6 +1,6 @@
 # Identidade visual — PROPOSTA (não aprovada)
 
-Referência escolhida por Gabi: @jhulian.fisio (colagem/scrapbook: papéis estampados, recortes de foto
+Referência escolhida por Gabi: @fisiocomtatau (colagem/scrapbook: papéis estampados, recortes de foto
 com borda, alfinetes, etiquetas de papel com fonte serifada/datilografada, setas e rabiscos à mão).
 Objetivo: mesma energia artesanal, mas com assinatura própria. NÃO copiar estampas (toile azul, xadrez rosa) nem composições.
 
